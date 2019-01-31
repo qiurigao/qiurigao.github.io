@@ -1,0 +1,2 @@
+# SouthAsia
+Dest=8A;ImageVersion=00000000;SystemSoftwareVersion=0.00;CDN=http://dsa01.ps3.update.playstation.net/update/ps3/image/sa/2018_1011_69b4529fd584523cf37e6d29107b9a8b/PS3PATCH.PUP;CDN_Timeout=30;
